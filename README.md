@@ -23,4 +23,4 @@ Github:
 
 The established work flow is as follows:
 1. Edit and build in `jekyll_site-name`
-2. Copy the output contents into corresponding git the repository
+2. Copy the output contents into corresponding git the repository and push
